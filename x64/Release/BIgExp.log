@@ -1,0 +1,14 @@
+﻿  AllAuthor_get.cpp
+  coPersonGet.cpp
+  coPersonRead.cpp
+  most100.cpp
+  processXml.cpp
+D:\新建文件夹\visual studio 2022\空项目\BIgExp\BIgExp\processXml.cpp(19,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\新建文件夹\visual studio 2022\空项目\BIgExp\BIgExp\processXml.cpp(25,71): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  PubPick.cpp
+  PubRead.cpp
+  RBtree.cpp
+  YearWordCount.cpp
+  YearWordPick.cpp
+most100.obj : error LNK2001: 无法解析的外部符号 "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl itostr(int)" (?itostr@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+D:\新建文件夹\visual studio 2022\空项目\BIgExp\x64\Release\BIgExp.exe : fatal error LNK1120: 1 个无法解析的外部命令

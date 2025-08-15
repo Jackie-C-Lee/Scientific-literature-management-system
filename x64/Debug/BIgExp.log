@@ -1,0 +1,5 @@
+﻿  cluster.cpp
+D:\新建文件夹\visual studio 2022\空项目\BIgExp\BIgExp\cluster.cpp(72,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  BIgExp.vcxproj -> D:\新建文件夹\visual studio 2022\空项目\BIgExp\x64\Debug\BIgExp.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
