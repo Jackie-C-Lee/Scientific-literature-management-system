@@ -15,3 +15,4 @@ long long strToLong(string str);             //stringתlong long
 bool checkTailElem(string tempstr);
 string intStr(int temp);
 const string save_url = "D:\\newArea\\Dcollect\\needData\\";
+// 原来是可以修改的
